@@ -129,7 +129,7 @@ Collective wisdom is more likely to arise when sound judgment is based on the en
 {{% multicol %}}{{% col %}}
 #### Multi-Agent Reinforcement Learning 
 * Hybrid approach to learning -- combining learning with macroprogramming
-* Focus on large-scaleness -- create a learning system that can scale to thousands of agents
+* Focus on large-scale -- learning systems that scale to thousands of agents
 * **Gianluca** will show some recent advances: <br>*Engineering Swarm Behaviours through Hybrid Aggregate Computing*</br>
 {{% /col %}}{{% col %}}
 #### Specialized federated learning
