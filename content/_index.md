@@ -132,8 +132,10 @@ Collective wisdom is more likely to arise when sound judgment is based on the en
 * **Gianluca** will gianluca completa<br>*Gianluca metti un titolo*
 {{% /col %}}{{% col %}}
 #### Specialized federated learning
-* Davide add some bullets
-* **Davide** will davide completa<br>*Davide metti un titolo*
+* Learn a joint model without sharing data
+* Model peer-to-peer learning through aggregate computing
+* Address data heterogeneity through opportunistic clustered federated learning
+* **Davide** will provide an introduction<br>*Field Based Federated Learning*
 {{% /col %}}{{% /multicol %}}
 
 ---
