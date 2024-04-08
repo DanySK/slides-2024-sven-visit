@@ -228,7 +228,7 @@ Every once in a while, a new technology, an old problem, and a big idea turn int
 # The plan
 
 1. **Roberto Casadei**: *From Macro-programming to Aggregate Computing*
-1. **Gianluca Aguzzi**: *Gianluca write a title and send me a PR*
+1. **Gianluca Aguzzi**: *Engineering Swarm Behaviours through Hybrid Aggregate Computing*
 1. **Davide Domini**: *Field Based Federated Learning*
 1. **Danilo Pianini**: *Simulation and software process engineering in pervasive computing*
 1. **Angela Cortecchia**: *Aggregate Programming in Kotlin Multiplatform with Collektive*
